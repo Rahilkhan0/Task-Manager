@@ -44,3 +44,4 @@ Running the Application
 - PUT /tasks/:id - Update a task
 
 - DELETE /tasks/:id - Delete a task
+![image](https://github.com/user-attachments/assets/d7797943-4113-462c-a9ed-2cc0f8d63a01)
